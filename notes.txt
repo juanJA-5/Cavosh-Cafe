@@ -1,0 +1,6 @@
+Set-ExecutionPolicy RemoteSigned
+
+npm init -y
+npm install dotenv express multer mysql2 cors
+
+npm run start
